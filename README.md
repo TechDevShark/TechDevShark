@@ -1,6 +1,6 @@
 # TechDevShark
 
-Ce portfolio présente mes projets, mes compétences et mes expériences professionnelles.
+This portfolio showcases my projects, skills, and professional experiences.
 
 ## Table des matières
 
