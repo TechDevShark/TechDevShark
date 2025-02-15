@@ -37,10 +37,15 @@ This portfolio showcases my projects, skills, and professional experiences.
 
 ## Expériences professionnelles
 
-ODIA - Python intern (2021-2022):
+Astradal – C#, React.js:
+At Astradal, a company specializing in cadastral and cartographic solutions, I worked on developing tools to enhance urban planning processes. I implemented a C# connector to integrate with a government platform for managing urban planning authorization requests, ensuring seamless data mapping and thorough unit and functional testing.
+Additionally, I developed a 3D positioning application using React.js, enabling the integration of cadastral maps and the manipulation of 3D objects. This tool allowed users to import, position, rotate, and resize 3D models while synchronizing data with the cadastral system. These developments improved data accuracy and streamlined urban planning workflows.
+
+Cognitive design Systems - Python, C#, C++ :
+At Cognitive Design Systems (CDS), a technology company that uses artificial intelligence to optimize the design of 3D objects, I developed a No-code platform in C#. My objective was to integrate CDS Python algorithms into an intuitive and fast platform. I also designed a tool to analyze the relevance of 3D printing parts by evaluating the most suitable material for printing. Finally, I improved CDS's existing algorithms to optimize them and develop new useful functions for their platform. My achievements enabled CDS to offer an innovative and high-performing platform for product design, thus strengthening customer satisfaction and their position in the market.
+
+ODIA - Python :
 During my internship at ODIA, led by Luc Julia, I worked on data transformation with AI. My role was to transform recorded texts into podcasts using AI to give a more human-like voice and add emotions, thus avoiding a robotic voice. I worked on implementing AI techniques to improve the efficiency and quality of the generated podcasts. My achievements allowed the company to improve its podcast offerings and expand its audience.
 
-Cognitive design Systems - Python intern, C#, C++ (2022):
-During my internship at Cognitive Design Systems (CDS), a technology company that uses artificial intelligence to optimize the design of 3D objects, I developed a No-code platform in C#. My objective was to integrate CDS Python algorithms into an intuitive and fast platform. I also designed a tool to analyze the relevance of 3D printing parts by evaluating the most suitable material for printing. Finally, I improved CDS's existing algorithms to optimize them and develop new useful functions for their platform. My achievements enabled CDS to offer an innovative and high-performing platform for product design, thus strengthening customer satisfaction and their position in the market.
-
 ## Contact
+[LinkedIn](https://www.linkedin.com/in/kevinrolandpro/)
